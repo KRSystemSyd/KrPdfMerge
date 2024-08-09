@@ -5,9 +5,7 @@ namespace KrPDFmerge
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        //#240809 BJER:Flyttat till ny repository under KrSystemSyd istället
         [STAThread]
         static void Main(String[] args)
         {
